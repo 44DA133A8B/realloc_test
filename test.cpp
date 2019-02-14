@@ -1,3 +1,5 @@
+// Alice in Mediocreland (2019)
+
 #include <array>
 #include <cstdint>
 #include <iostream>
